@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(144, 0, 0);
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color:rgb(0, 0, 0);
+    text-indent: 30px;
+}
+h2{
+    text-align: center;
+    color:rgb(0, 244, 16)(0, 255, 255);
+    text-transform: initial;
+}
+h3{
+    text-align: center;
+    color:rgb(165, 42, 157);
+    text-decoration:line-through;
+}
+p{
+    text-align: justify;
+    color: rgb(255, 255, 255);
+    letter-spacing: normal;
+}
