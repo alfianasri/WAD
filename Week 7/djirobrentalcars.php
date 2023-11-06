@@ -32,7 +32,7 @@ $mobil = query("SELECT * FROM mobil");
 <body>
      <!--Jumbotron-->
      <section class="jumbotron text-center">
-      <img src="Image/logorentalmobil.png" alt="Alfian" width="200" class="rounded-circle img-thumbnail" />
+      <img src="Image/notion.png" alt="Alfian" width="200" class="rounded-circle img-thumbnail" />
       <h1 class="display-4">DJIROB RENT CARS</h1>
       <p class="lead">"Siap menemani perjalanan anda dengan harga minimal tapi kualitas maksimal"</p>
     </section>
